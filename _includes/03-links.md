@@ -1,1 +1,1 @@
-Visit my Github profile [here] (https://github.com/myearsarealight)
+[GitHub](http://github.com)

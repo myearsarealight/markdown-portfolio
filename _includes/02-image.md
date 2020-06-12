@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of decorative light up elephant](https://scontent-lhr8-1.xx.fbcdn.net/v/t31.0-8/19390814_10102076760138442_3327830181324101878_o.jpg?_nc_cat=109&_nc_sid=7aed08&_nc_ohc=C_HENNTCvrAAX_1jZzr&_nc_ht=scontent-lhr8-1.xx&oh=3ce72e14e3882e54d93562a6222d3854&oe=5F0B6664)

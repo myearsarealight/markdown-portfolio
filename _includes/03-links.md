@@ -1,1 +1,1 @@
-[GitHub](http://github.com)
+[Check out my profile](http://github.com/myearsarealight)
